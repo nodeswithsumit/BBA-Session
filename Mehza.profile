@@ -36,15 +36,16 @@
                     <div style="display: flex; align-items: center; gap: 2rem;">
                         <!-- <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;"> -->
                         <div>
-                            <h1 class="bx--type-productive-heading-05">John Doe</h1>
-                            <p class="bx--type-body-long-02">Software Developer</p>
+                            <h1 class="bx--type-productive-heading-05">Mehza Mohammed Shaheer</h1>
+                            <p class="bx--type-body-long-02">Student</p>
                         </div>
                     </div>
 
                     <div style="margin-top: 2rem;">
                         <h2 class="bx--type-productive-heading-03">About Me</h2>
                         <p class="bx--type-body-long-02">
-                            Experienced software developer
+                            I am a second year student studying in Yenepoya Institute of Arts, Science, Commerce and Management.
+                            I am majoring in Business Administration and specializing in Business Analytics
                         </p>
                     </div>
 
