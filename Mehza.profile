@@ -1,4 +1,4 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +36,7 @@ DOCTYPE html>
                     <div style="display: flex; align-items: center; gap: 2rem;">
                         <!-- <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius: 50%;"> -->
                         <div>
-                            <h1 class="bx--type-productive-heading-05">Nihal Mohammed Bashir</h1>
+                            <h1 class="bx--type-productive-heading-05">Mehza Mohammed Shaheer</h1>
                             <p class="bx--type-body-long-02">Student</p>
                         </div>
                     </div>
@@ -44,17 +44,17 @@ DOCTYPE html>
                     <div style="margin-top: 2rem;">
                         <h2 class="bx--type-productive-heading-03">About Me</h2>
                         <p class="bx--type-body-long-02">
-                            Student at Yenpoya Institute of Arts,science,Commerce & Management 
-                            Enrolled in Bachelor of Business Administration Specializing Entrepreneurship and Business Analytics
+                            I am a second year student studying in Yenepoya Institute of Arts, Science, Commerce and Management.
+                            I am majoring in Business Administration and specializing in Business Analytics
                         </p>
                     </div>
 
                     <div style="margin-top: 2rem;">
                         <h3 class="bx--type-productive-heading-02">Contact Information</h3>
                         <ul class="bx--list--unordered">
-                            <li class="bx--list__item">Email: nihalbashir18@gmail.com</li>
-                            <li class="bx--list__item">Location: Kerala, India</li>
-                            <li class="bx--list__item">LinkedIn: /in/Nihalbashir</li>
+                            <li class="bx--list__item">Email: john.doe@example.com</li>
+                            <li class="bx--list__item">Location: New York, USA</li>
+                            <li class="bx--list__item">LinkedIn: /in/johndoe</li>
                         </ul>
                     </div>
                 </div>
